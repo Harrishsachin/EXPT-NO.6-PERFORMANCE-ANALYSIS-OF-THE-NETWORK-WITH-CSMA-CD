@@ -79,7 +79,7 @@ $ns at 0.8 "$ftp start"
 $nsat 7.0 "$ftp stop"
 $ns at 7.5 "$cbr stop"
 $ns at 8.0 "finish"
-$ns run
+$ns run 
  ```
 # OUTPUT
 <img width="1496" height="766" alt="Screenshot 2026-03-24 205454" src="https://github.com/user-attachments/assets/0bbccfa1-597b-47bd-8c46-4b972dd638ff" />
